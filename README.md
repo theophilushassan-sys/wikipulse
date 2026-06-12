@@ -7,6 +7,8 @@ activity, edit-frequency spikes).
 
 ## Architecture
 
+![WikiPulse architecture](docs/architecture.svg)
+
 ```
 Wikimedia EventStreams (SSE)
         │  https://stream.wikimedia.org/v2/stream/recentchange
